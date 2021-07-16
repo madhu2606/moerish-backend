@@ -1,0 +1,23 @@
+{
+    "item_id":"c123",
+    "item_name":"Chicken Biryani",
+    "item_cost":"25",
+    "item_discount":"1",
+    "item_category":["cusine","main course"],
+    "item_description":"",
+    "item_mob_smallimg":"iocn.png",
+    "item_mob_largeimg":"icon2.png",
+    "item_recomended":["1","2","3"],
+    "item_rating":[
+        {
+            "rating":2,
+            "review":"Best food",
+            "review_name":"Madhu"
+        },
+        {
+            "rating":3,
+            "review":"Best food1",
+            "review_name":"Madhu1"
+        }
+    ]
+}
